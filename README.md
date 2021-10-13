@@ -5,6 +5,7 @@ Walaupun data ini sedikit tetapi banyak nya nilai NaN membuat saya tertarik meng
 <br>
 
 ### Data analysis & modelling with Python
+https://github.com/sultanbst123/MachineHack_Tea-Price-Prediction/blob/main/Tea%20price.ipynb
 
 ### Dataset & Informasi
 
