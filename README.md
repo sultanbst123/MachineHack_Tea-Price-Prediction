@@ -5,6 +5,10 @@ Walaupun data ini sedikit tetapi banyak nya nilai NaN membuat saya tertarik meng
 <br>
 
 ### Data analysis & modelling with Python
+Menganalisa beberapa fitur yang mempegaruhi fitur target lalu pembersihan dan karena banyak nya nilai Nan di data Test saya putuskan untuk tidak mengunakan algorithm machine-learning untuk memprediksi
+, saya akan mengunakan teknik "blending values" per baris.
+
+Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/MachineHack_Tea-Price-Prediction/blob/main/Tea%20price.ipynb
 
 ### Dataset & Informasi
